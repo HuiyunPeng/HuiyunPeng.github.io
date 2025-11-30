@@ -1,0 +1,71 @@
+# This file supports comment lines - all lines with a # are deleted
+{
+    "publications": [
+        {
+            "type": "conference",
+            "authors": ["P.C. Amusuo", "K.A. Robinson", "T. Singla", "**H. Peng**", "A. Machiry", "S. Torres-Arias", "L. Simon", "J.C. Davis"],
+            "title": "ZTD JAVA: Mitigating Software Supply Chain Vulnerabilities via Zero-Trust Dependencies",
+            "venue": "Proceedings of the 47th International Conference on Software Engineering (ICSE)",
+            "year": 2025,
+            "paperBasename": "https://arxiv.org/pdf/2501.00000",
+            "slidesBasename": "",
+            "artifactURL": "",
+            "videoURL": ""
+        },
+        {
+            "type": "workshop",
+            "authors": ["P.V. Patil", "W. Jiang", "**H. Peng**", "D. Lugo", "K.G. Kalu", "J. LeBlanc", "L. Smith", "H. Heo", "N. Aou", "J.C. Davis"],
+            "title": "Recommending Pre-Trained Models for IoT Devices",
+            "venue": "Proceedings of the 7th International Workshop on Software Engineering Research & Practices for the Internet of Things (SERP4IoT)",
+            "year": 2025,
+            "paperBasename": "",
+            "slidesBasename": "",
+            "artifactURL": "",
+            "videoURL": ""
+        },
+        {
+            "type": "arxiv",
+            "authors": ["**H. Peng**", "A. Gupte", "R. Hasler", "N.J. Eliopoulos", "C.C. Ho", "R. Mantri", "L. Deng", "K. Läufer", "G.K. Thiruvathukal", "J.C. Davis"],
+            "title": "SysLLMatic: Large Language Models are Software System Optimizers",
+            "venue": "Under review at The Journal of Systems and Software (JSS). Preprint at arXiv:2506.01249",
+            "year": 2025,
+            "paperBasename": "https://arxiv.org/pdf/2506.01249",
+            "slidesBasename": "",
+            "artifactURL": "",
+            "videoURL": ""
+        },
+        {
+            "type": "arxiv",
+            "authors": ["E. Pautsch", "T. Singla", "W. Jiang", "**H. Peng**", "B. Hassanshahi", "K. Läufer", "G.K. Thiruvathukal", "J.C. Davis"],
+            "title": "AgentHub: A Research Agenda for Agent Sharing Infrastructure",
+            "venue": "arXiv:2510.03495",
+            "year": 2025,
+            "paperBasename": "https://arxiv.org/pdf/2510.03495",
+            "slidesBasename": "",
+            "artifactURL": "",
+            "videoURL": ""
+        },
+        {
+            "type": "arxiv",
+            "authors": ["J.C. Davis", "S. Chen", "**H. Peng**", "P. Amusuo", "K. Kalu"],
+            "title": "A Guide to Stakeholder Analysis for Cybersecurity Researchers",
+            "venue": "arXiv:2508.14796",
+            "year": 2025,
+            "paperBasename": "https://arxiv.org/pdf/2508.14796",
+            "slidesBasename": "",
+            "artifactURL": "",
+            "videoURL": ""
+        },
+        {
+            "type": "arxiv",
+            "authors": ["**H. Peng**", "A. Gupte", "N.J. Eliopoulos", "C.C. Ho", "R. Mantri", "L. Deng", "W. Jiang", "Y.H. Lu", "K. Läufer", "G.K. Thiruvathukal", "J.C. Davis"],
+            "title": "Large Language Models for Energy-Efficient Code: Emerging Results and Future Directions",
+            "venue": "arXiv:2410.09241",
+            "year": 2024,
+            "paperBasename": "https://arxiv.org/pdf/2410.09241",
+            "slidesBasename": "",
+            "artifactURL": "",
+            "videoURL": ""
+        }
+    ]
+}
