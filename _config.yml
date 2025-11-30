@@ -12,7 +12,7 @@ title_mastheadImage: "" # An image that appears in upper left on each page, and 
 title_separator: "-"
 name: &name "Huiyun Peng"
 description: &description "Ph.D. Student in ECE@Purdue"
-url: "http://localhost:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://HuiyunPeng.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 filesurl: "files"
 repository: "davisjam/davisjam.github.io"
