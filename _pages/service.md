@@ -23,7 +23,6 @@ I actively contribute to the research community through various service roles:
 
 - Student Volunteer - ICSE 2025
 - Judge - Purdue University SURF Symposium 2025
-- Sub-reviewer - FSE 2025
 
 ### 2024
 
